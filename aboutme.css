@@ -1,0 +1,26 @@
+body {
+  background-color: #CC297A;
+  font-family :"calibri", "times", "arial";
+}
+
+.intro{
+  text-align:center;
+  color:#FFFFFF;
+
+}
+
+.firstpara{
+  text-align:center;
+  font-size: 40 px;
+}
+
+
+
+
+.floating{
+float:left;
+}
+
+.floatingmore{
+  float:right;
+}
